@@ -35,7 +35,7 @@ pip install pandas sentence-transformers scikit-learn langchain_groq
 
 <h1 align="center">
     <br>
-    <img width="200" src="arch.png" alt="awesome">
+    <img width="900" height="500" src="arch.png" alt="awesome">
     <br>
 </h1>
 
